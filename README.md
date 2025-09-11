@@ -2,4 +2,4 @@ This repository is about building an Image classifier CNN with Python on Plant D
 
 Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
-Trained Model Link : https://drive.google.com/file/d/1alLw2GHgYgxNq14ABdGIXeijBDE-Ui8Q/view?usp=drive_link
+Trained Model Link : https://drive.google.com/file/d/14vzh3NyV5zLRPVkK71mXb9CFF26sVYoA/view?usp=drive_link
